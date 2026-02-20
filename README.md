@@ -1,6 +1,8 @@
 # Uber-Dashboard
 Developed an interactive Power BI dashboard to analyze sales trends, booking performance, revenue, and customer behavior. Designed dynamic KPIs, implemented DAX measures, and built drill-through analysis pages for deeper insights.
-Overview
+
+<img width="1375" height="771" alt="01_Overview" src="https://github.com/user-attachments/assets/302f509f-c72c-4f65-8e54-01eb5d3b3111" />
+
 
 ## Overview
 This project presents an interactive Power BI dashboard designed to analyze sales trends, booking performance, revenue metrics, and operational efficiency.

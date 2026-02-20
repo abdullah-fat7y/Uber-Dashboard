@@ -51,17 +51,6 @@ All KPIs dynamically respond to filters and slicers.
 
 ---
 
-## Data Modeling Approach
-
-- Structured relational model  
-- Fact and dimension separation (Star Schema style)  
-- Optimized relationships for performance  
-- Measures created using DAX instead of excessive calculated columns  
-
-This improves scalability, maintainability, and report performance.
-
----
-
 ## Technical Implementation
 
 ### Data Processing
@@ -108,8 +97,6 @@ It transforms complex raw data into structured, decision-ready insights.
 **Abdallah Fathy**  
 Data Analyst | Data Engineering Enthusiast  
 Electrical & Communication Engineering Student  
-
-> “I don’t just analyze data — I engineer clarity from complexity.”
 
 🔗 LinkedIn: https://linkedin.com/in/abdullahfathy-
 
